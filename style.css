@@ -19,6 +19,7 @@ main{
 
 section#iphone{
     position: absolute;
+    zoom: 80%;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
@@ -40,11 +41,12 @@ section#icones{
     position: absolute;
     top: 20%;
     left: 90%;
+    zoom: 80%;
 }
 
 section#icones img{
-    width: 60px;
-    height: 60px;
+    width: 70px;
+    height: 70px;
     margin: 10px;
     border-radius: 50%;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.747);
