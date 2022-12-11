@@ -19,7 +19,7 @@ main{
 
 section#iphone{
     position: absolute;
-    zoom: 80%;
+    zoom: 70%;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
@@ -41,7 +41,7 @@ section#icones{
     position: absolute;
     top: 20%;
     left: 90%;
-    zoom: 80%;
+    zoom: 70%;
 }
 
 section#icones img{
