@@ -19,7 +19,7 @@ main{
 
 section#iphone{
     position: absolute;
-    zoom: 70%;
+    zoom: 80%;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
@@ -39,12 +39,12 @@ iframe#tela{
 
 section#icones{
     position: absolute;
-    top: 20px;
+    top: 30px;
     padding-left: 7vw;
 }
 
 section#icones img{
-    zoom: 70%;
+    zoom: 75%;
     width: 70px;
     height: 70px;
     margin: 10px;
